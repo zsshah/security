@@ -1,0 +1,132 @@
+List of broken links under https://opensciencegrid.github.io/security/ 
+
+#	Location	Link
+1.	Incident Discovery and Reporting/What to Do After an Incident is Reported	https://opensciencegrid.github.io/security/Documentation.IncidentFirstSteps 
+
+2.	Frequently Asked Questions about the Open Science Grid/ What is the Open Science Grid (OSG)?	https://opensciencegrid.github.io/security/Documentation.WhatIsOSG
+
+3. 	Frequently Asked Questions about the Open Science Grid/ What services are available in the OSG?	https://opensciencegrid.github.io/security/OverviewOfServicesInOSG
+
+4.	Frequently Asked Questions about the Open Science Grid/ What is the GLUE schema used in OSG?	http://forge.gridforum.org/sf/projects/glue-wg 
+
+5. 	Frequently Asked Questions about the Open Science Grid/ Who participates in the OSG?	https://opensciencegrid.github.io/security/Management.OSGMemberOrganizations 
+
+6.	Frequently Asked Questions about the Open Science Grid/ Getting Started	https://opensciencegrid.github.io/security/Documentation.Release3.WebHome
+
+https://opensciencegrid.github.io/security/Documentation.Release3.InstallOSGClient
+
+https://opensciencegrid.github.io/security/Documentation.UserHelp
+
+7.	Frequently Asked Questions about the Open Science Grid/Getting Started/ How do I use the OSG resources?	https://opensciencegrid.github.io/security/Documentation.Release3.NavUserMain 
+
+8. 	Frequently Asked Questions about the Open Science Grid/Getting Started/ Where can I get training on how to use the grid?	https://opensciencegrid.github.io/security/Education.WebHome 
+
+9. 	Frequently Asked Questions about the Open Science Grid/Getting Started/ How do I port my existing application to work on the OSG resources?	https://opensciencegrid.github.io/security/Documentation.Release3.NavUserResources
+
+https://opensciencegrid.github.io/security/PortingYourApplication
+
+10. 	Frequently Asked Questions about the Open Science Grid/Getting Started/ Is there a glossary of grid computing terms?	https://opensciencegrid.github.io/security/GlossaryOfTerms 
+
+11.	Frequently Asked Questions about the Open Science Grid/Getting Started/How do I get permission to edit information on the Page?	Fork the repository from GitHub
+
+12.	Frequently Asked Questions about the Open Science Grid/Virtual Organizations (VO)/ Do I have to be part of a VO in order to use or contribute to OSG?	https://opensciencegrid.github.io/security/Documentation.WhatIsVO
+
+13.	Frequently Asked Questions about the Open Science Grid/Virtual Organizations (VO)/How do I join an OSG Virtual Organization (VO)?	https://opensciencegrid.github.io/security/Documentation.WhatIsVO
+
+14.	Frequently Asked Questions about the Open Science Grid/Virtual Organizations (VO)/How does a VO fit into the OSG?	https://opensciencegrid.github.io/security/VOAdminInOsg
+
+15.	Frequently Asked Questions about the Open Science Grid/Virtual Organizations (VO)/ How do I form a new VO?	https://opensciencegrid.github.io/security/UserHelp
+
+16.	Frequently Asked Questions about the Open Science Grid/Getting Support/ How do I get support for problems I encounter while using OSG resources?	https://opensciencegrid.github.io/security/UserHelp
+
+17.	Frequently Asked Questions about the Open Science Grid/Getting Support/ What is the Grid Operations Center (GOC)?	https://opensciencegrid.github.io/security/GocWhatIs 
+
+18.	Frequently Asked Questions about the Open Science Grid/Running Jobs/ How do I run a job on an OSG resource?	https://opensciencegrid.github.io/security/WebHome
+
+19.	Frequently Asked Questions about the Open Science Grid/Running Jobs/How can I monitor my OSG work?	https://opensciencegrid.github.io/security/Trash/MonitoringInformation.WebHome
+
+20.	Frequently Asked Questions about the Open Science Grid/Running Jobs/ How do I troubleshoot a job that is not running properly?	https://opensciencegrid.github.io/security/Documentation.Release3.TroubleshootingGuide
+
+https://opensciencegrid.github.io/security/Documentation.UserHelp
+
+21.	Frequently Asked Questions about the Open Science Grid/Running Jobs/What happens if I run a "bazillion squillion" jobs on one site?	https://opensciencegrid.github.io/security/Documentation.GoldenRulesForOSGUsage
+
+22.	Frequently Asked Questions about the Open Science Grid/About OSG's Software/What is Pacman?	https://opensciencegrid.github.io/security/Documentation.Release3.YumRpmBasics 
+
+23.	Frequently Asked Questions about the Open Science Grid/Installation and Configuration of OSG Sites/ What do I have to have in place before I setup an OSG resource?	https://opensciencegrid.github.io/security/Documentation.Release3.SitePlanning 
+
+24.	Frequently Asked Questions about the Open Science Grid/ Installation and Configuration of OSG Sites/How do I make my site's resources available to OSG members?	https://opensciencegrid.github.io/security/ContactsMailingLists
+
+https://opensciencegrid.github.io/security/WebHome
+
+25.	Frequently Asked Questions about the Open Science Grid/ Installation and Configuration of OSG Sites/What should I name my OSG resource?	https://opensciencegrid.github.io/security/ReleaseDocumentation/ResourceName 
+
+26.	Frequently Asked Questions about the Open Science Grid/ Installation and Configuration of OSG Sites/What should I name my OSG resource?	https://opensciencegrid.github.io/security/ReleaseDocumentation/ResourceName
+
+27.	Frequently Asked Questions about the Open Science Grid/ Installation and Configuration of OSG Sites/How do I install an OSG compute element?	https://opensciencegrid.github.io/security/Documentation.Release3.PreparingComputeElement
+
+28.	Frequently Asked Questions about the Open Science Grid/ Installation and Configuration of OSG Sites/What should I install on my site's worker nodes?	https://opensciencegrid.github.io/security/Documentation.Release3.InstallWNClient
+
+29.	Frequently Asked Questions about the Open Science Grid/ Installation and Configuration of OSG Sites/Do I need to shut down and uninstall my Compute Element (CE) installations before I upgrade them?	https://opensciencegrid.github.io/security/Documentation.Release3.InstallComputeElement#7_2_Stopping_and_Disabling_Servi
+
+30.	Frequently Asked Questions about the Open Science Grid/ Installation and Configuration of OSG Sites/How should I configure local storage on my OSG compute element?	https://opensciencegrid.github.io/security/Documentation.Release3.LocalStorageConfiguration 
+
+https://opensciencegrid.github.io/security/Documentation.Release3.InstallOSGBestmanSE
+
+31.	Frequently Asked Questions about the Open Science Grid/ Administration of OSG Sites/ How do I troubleshoot the edg-mkgridmap script?	https://opensciencegrid.github.io/security/Documentation.Release3.TroubleshootingComputeElement#TroubleshootingEdgMkgridmap
+ 
+32.	Frequently Asked Questions about the Open Science Grid/ Administration of OSG Sites/How do I activate and deactivate my Resource on the OSG?	https://opensciencegrid.github.io/security/ReleaseDocumentation/ComputeElementPostInstall#Included_topic_Register_Resource 
+
+33.	Frequently Asked Questions about the Open Science Grid/ Administration of OSG Sites/ How do I authorize users on a compute element?	https://opensciencegrid.github.io/security/ReleaseDocumentation/AboutAuthorizationForCE
+
+34.	Frequently Asked Questions about the Open Science Grid/Security and Certificates/ What is a grid certificate?	https://opensciencegrid.github.io/security/Documentation.CertificateWhatIs
+
+35.	Frequently Asked Questions about the Open Science Grid/Security and Certificates/ How do I get or renew a grid certificate for users of the OSG?	https://opensciencegrid.github.io/security/Documentation.Release3.CertificateUserGet
+
+https://opensciencegrid.github.io/security/Documentation/MiscellaneousCertificateTasks
+
+36.	Frequently Asked Questions about the Open Science Grid/Security and Certificates/What are OSG users' responsibilities in keeping OSG resources secure?	https://opensciencegrid.github.io/security/Documentation.SecuritySiteResponsibilities
+
+37.	Frequently Asked Questions about the Open Science Grid/Security and Certificates/What are OSG resource administrators' and VO administrators' responsibilities in keeping OSG secure?	https://opensciencegrid.github.io/security/Documentation.Release3.WebHome
+
+38.	Frequently Asked Questions about the Open Science Grid/Security and Certificates/What do I do if my root certificate expires?	https://opensciencegrid.github.io/security/Documentation/CertificateGetWeb#InstallCaCert
+
+39.	Frequently Asked Questions about the Open Science Grid/Security and Certificates/How do I update my GUMS service template?	https://opensciencegrid.github.io/security/ReleaseDocumentation/InstallConfigureAndManageGUMS
+
+40.	Frequently Asked Questions about the Open Science Grid/Security and Certificates/My web browser does not trust the OSG CA?	https://opensciencegrid.github.io/security/Documentation/CertificateGetWeb#InstallCaCert
+
+41.	OSG Security Policies and Procedures/Approved Security Policies/Site/VO Removal	https://opensciencegrid.github.io/security/ReleaseDocumentation.Removal
+
+42.	OSG Security Policies and Procedures/Security Procedures	https://opensciencegrid.github.io/security/Security.IncidentResponseProcess
+
+https://opensciencegrid.github.io/security/SecurityTeam.CreatingCADistributions
+
+https://opensciencegrid.github.io/security/SecurityTeam.AddRemoveCA
+
+https://opensciencegrid.github.io/security/Documentation.SecureEmail
+
+https://opensciencegrid.github.io/security/Operations.OIMRegistrationInstructions
+
+https://opensciencegrid.github.io/security/Operations.SOPVoRegistration-v3
+
+https://opensciencegrid.github.io/security/Security.SoftwareVulnerabilityHandling
+
+https://opensciencegrid.github.io/security/Documentation.RemovalProcedure
+
+https://opensciencegrid.github.io/security/Security.SecurityAnnouncements
+
+https://opensciencegrid.github.io/security/SecurityTeam.Adding_Removing_Security_Team_Member
+
+43.	OSG Security Policies and Procedures/References and Related Information/ JSPG	http://www.jspg.org/wiki/JSPG_Docs
+
+44.	OSG Security Policies and Procedures/References and Related Information/ IPG	http://forge.ogf.org/sf/wiki/do/viewPage/projects.ipg/wiki/HomePage
+
+45.	OSG Security Policies and Procedures/References and Related Information/ WLCG	http://wlcg.web.cern.ch/lcg
+
+46.	Security Team Email Lists/Consortium Mailing Lists	https://opensciencegrid.github.io/security/Documentation.ContactsMailingLists
+
+47.	What are Users' Responsibilities Regarding Security on OSG?/Protecting Your Grid Identity Token	https://opensciencegrid.github.io/security/Documentation.CertificateUserGet
+
+48.	OSG Certificate Authority Distribution/Contents/Purdue TeraGrid CA	http://tg-ca.purdue.teragrid.org:8080/ejbca/
+
+
